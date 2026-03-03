@@ -1,0 +1,12 @@
+[project]
+name = "airsimnh"
+version = "0.1.0"
+requires-python = "~=3.9.0"
+dependencies = [
+    "airsim>=1.8.1",
+    "backports-ssl-match-hostname>=3.7.0.1",
+    "msgpack-rpc-python>=0.4.1",
+    "numpy<2",
+    "setuptools>=82.0.0",
+    "wheel>=0.46.3",
+]

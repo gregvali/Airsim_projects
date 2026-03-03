@@ -1,0 +1,7 @@
+[project]
+name = "adrl"
+version = "0.1.0"
+requires-python = "~=3.9.0"
+dependencies = [
+    "airsimdroneracinglab>=1.0.2",
+]
