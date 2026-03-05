@@ -1,0 +1,26 @@
+Connected!
+Client Ver:1 (Min Req: 1), Server Ver:1 (Min Req: 1)
+
+Taking off...
+Race started! Using IMU + Vision only
+
+Racing for 60.0 seconds
+
+[00007] Gates: 0 | Conf: 0.04 | V: 0.9m/s | Roll: 10.2° | Cal: False
+[00013] Gates: 0 | Conf: 0.06 | V: 2.0m/s | Roll: 9.2° | Cal: False
+[00020] Gates: 0 | Conf: 0.05 | V: 4.2m/s | Roll: -8.6° | Cal: False
+[00027] Gates: 0 | Conf: 0.04 | V: 6.7m/s | Roll: 3.5° | Cal: False
+[00033] Gates: 0 | Conf: 0.05 | V: 9.1m/s | Roll: 17.0° | Cal: False
+[00040] Gates: 0 | Conf: 0.09 | V: 12.4m/s | Roll: 38.7° | Cal: False
+[00047] Gates: 0 | Conf: 0.06 | V: 15.0m/s | Roll: 16.3° | Cal: False
+[00054] Gates: 0 | Conf: 0.05 | V: 16.6m/s | Roll: -9.7° | Cal: False
+[00061] Gates: 0 | Conf: 0.04 | V: 17.4m/s | Roll: 2.3° | Cal: False
+[00067] Gates: 0 | Conf: 0.03 | V: 17.7m/s | Roll: 22.2° | Cal: False
+[00073] Gates: 0 | Conf: 0.05 | V: 17.4m/s | Roll: 39.8° | Cal: False
+[00080] Gates: 0 | Conf: 0.03 | V: 17.2m/s | Roll: 36.8° | Cal: False
+[00087] Gates: 0 | Conf: 0.09 | V: 15.6m/s | Roll: 21.8° | Cal: False
+[00094] Gates: 0 | Conf: 0.09 | V: 14.0m/s | Roll: 42.0° | Cal: False
+[IMU] Calibration complete. Gyro bias: [-0.00503327 -1.02125504 -0.00165536]
+[00101] Gates: 0 | Conf: 0.05 | V: 12.8m/s | Roll: 59.5° | Cal: True
+[00108] Gates: 0 | Conf: 0.04 | V: 12.2m/s | Roll: 34.6° | Cal: True
+[00115] Gates: 0 | Conf: 0.00 | V: 12.4m/s | Roll: 33.8° | Cal: True
